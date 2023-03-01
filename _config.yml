@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Nanaki个人博客
+title: Nanaki Blog
 subtitle: ''
-description: ''
-keywords:
+description: 前路漫漫，当克己，当慎独
+email: nanaki_1995@163.com
+keywords: '生活，旅行，代码，博客'
 author: Nanaki
-language: en
-timezone: ''
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://nanakimei.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,5 +108,5 @@ theme: ayer
 deploy:
   type: git
   repo: 
-    github: https://github.com/NanakiMei/NanakiMei.github.io.git
+    github: https://github.com/NanakiMei/nanakimei.github.io.git
   branch: main
